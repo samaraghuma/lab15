@@ -1,0 +1,6 @@
+c:\users\samar\documents\visual studio 2015\Projects\lab15\lab15\bin\Debug\lab15.exe.config
+c:\users\samar\documents\visual studio 2015\Projects\lab15\lab15\bin\Debug\lab15.exe
+c:\users\samar\documents\visual studio 2015\Projects\lab15\lab15\bin\Debug\lab15.pdb
+c:\users\samar\documents\visual studio 2015\Projects\lab15\lab15\obj\Debug\lab15.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\lab15\lab15\obj\Debug\lab15.exe
+c:\users\samar\documents\visual studio 2015\Projects\lab15\lab15\obj\Debug\lab15.pdb
